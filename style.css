@@ -7,6 +7,8 @@
 * .header {
   background-color: #98c3e8;
   height: 768px;
+  width: 1366px;
+  margin: 0 auto;
 }
 * .container-head {
   width: 1200px;
@@ -92,6 +94,8 @@
 
 .main {
   height: 1342px;
+  width: 1366px;
+  margin: 0 auto;
 }
 .main .container {
   width: 920px;
@@ -190,6 +194,8 @@
 
 .main-down {
   height: 1288px;
+  width: 1366px;
+  margin: 0 auto;
 }
 .main-down .container-main-down {
   width: 940px;
@@ -275,6 +281,7 @@
   margin-top: 190px;
   background-color: #5a98d0;
   border-top-left-radius: 200px;
+  width: 1366px;
 }
 .footer .conteiner-footer-head {
   width: 940px;
